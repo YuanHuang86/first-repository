@@ -15,3 +15,6 @@ This project requires a computer and internet.
 
 ## This is the new branch
 The branch contains more details as assigned.
+
+## Now I use the local app!
+as it states.
