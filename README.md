@@ -13,5 +13,5 @@ I'd really like for you to bring a few more people along to join in.
 This project requires a computer and internet.
 
 
-## This is the new branche
-The branches contains more details as assigned.
+## This is the new branch
+The branch contains more details as assigned.
